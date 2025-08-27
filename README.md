@@ -12,7 +12,5 @@ Software Engineering Student with a deep passion for programming and a strong co
 </div>
 
 ## Connect with Me
-<div align="left">
 - [LinkedIn](https://www.linkedin.com/in/mostafa-mokhtar-36975b237)
 - [Gmail](mostafa51moktar@gmail.com)
-</div>
