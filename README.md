@@ -3,9 +3,16 @@
 ## 🚀 About Me
 Software Engineering Student with a deep passion for programming and a strong commitment to continuous learning.
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mostafa-mokhtar-36975b237)
-- [X](https://x.com/mostafa13315829?t=h5IxTU_bPrFSOs9r4UReQw&s=08)
+## Languages, Tools, and Frameworks
 
-## How to Reach Me
-Feel free to reach out via [mostafa51moktar@gmail.com](mostafa51moktar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-mokhtar-36975b237).
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=git,c,cpp,cs,java,html,css,js,ts,nodejs,express,nestjs,mysql,redis,prisma,mongodb,py,flask,linux,bash.postgresql)
+
+</div>
+
+## Connect with Me
+<div align="left">
+- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mostafa-mokhtar-36975b237)
+- [![Gmail](https://skillicons.dev/icons?i=gmail)]((mostafa51moktar@gmail.com)
+</div>
